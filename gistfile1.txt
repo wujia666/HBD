@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <body style="background-color: #E8EC83;"></body>
+  <head>
+    <meta charset="UTF-8">
+    <title>HAPPY BIRTHDAY</title>
+    <link rel="stylesheet" href="style.css"
+  </head>
+  <body>
+    <div ALIGN="CENTER">
+        <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/d5/c9/3c/d5c93c418a4a7b2582db3e8e9e7cc0ee.gif">
+    </div>
+</div>
+</div>
+<div ALIGN="CENTER">
+  </div>
+  <div ALIGN="CENTER">
+  </div>
+    <h1>Happy 18th Birthday, Raymart!</h1>
+    <div ALIGN="CENTER"></div>
+    <HR NOSHADE>
+    <p>Happy special birthday! Today is the day to celebrate your extraordinary existence.
+In the journey of life. I'm the happiest that you made this far. I hope you didn't cry again on your special day.
+I hope you are the happiest birthday celebrant today in entire world.
+<br><br>
+You are special even when this day will passed, even when this day will be become past for tommorow.
+I hope someone special to you is the first one who greet you a happy birthday before me. I hope you receive a gift
+that will make your heart jump because of happiness. I hope you receive so much love not just today but always.
+Keep yourself always strong.
+<br><br>
+Read this message without thinking  about what happened between us, enjoy your day and thank your self that you've made this far.
+<br><br>
+Happiest birthday, rayray! I hope masaya ka, I hope you didn't cry, I hope your friends greet you happy birthday.
+I hope this gift I made for you is one of the best gift you've received today. I never forget what makes you happy.
+Live and love yourself more. I'm still your #1 supporter yukio.
+<br><br>
+Sana rin ay nasa maayos ka, hindi na kasi kita kayang maka musta. Reach your dream. Padaba taka!</p>
+    <p class="muted">Yukio 
+      . . .</p>
+   </div>
+   <script src="script.js"></script>
+  </div>
+</body>
+</html>
